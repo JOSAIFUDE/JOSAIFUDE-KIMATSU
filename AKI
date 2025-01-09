@@ -5,8 +5,10 @@
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-<dt>紹介ポケモン</dt>
-  <dd>ジョン</dd>
-  <dd>ポール</dd>
-  <dd>ジョージ</dd>
-  <dd>リンゴ</dd>
+<h1>プリン</h1>
+<dl>
+  <dt>紹介人物</dt>
+  <dd>ポケモン</dd>
+  <dd>ふうせんポケモン</dd>
+  <dd>プリン</dd>
+ </dl>
